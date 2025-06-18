@@ -20,22 +20,22 @@ Aplikasi ini adalah prototipe dasar untuk Sekolah Vokasi Universitas Pakuan, dir
 Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi ini:
 
 ### Halaman Landing
-![Screenshot Halaman Landing](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+LANDING+PAGE)
+![Screenshot Halaman Landing](https://raw.githubusercontent.com/RazxSR/vokasi_application/9f37360da116db36b51313941e294c2139a5e856/images/landing.jpeg)
 
 ### Halaman Masuk
-![Screenshot Halaman Masuk](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+LOGIN+PAGE)
+![Screenshot Halaman Masuk](https://raw.githubusercontent.com/RazxSR/vokasi_application/9f37360da116db36b51313941e294c2139a5e856/images/masuk.jpeg)
 
 ### Halaman Pendaftaran Akun
-![Screenshot Halaman Pendaftaran Akun](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+REGISTER+PAGE)
+![Screenshot Halaman Pendaftaran Akun](https://raw.githubusercontent.com/RazxSR/vokasi_application/9f37360da116db36b51313941e294c2139a5e856/images/daftar.jpeg)
 
 ### Halaman Detail Akun
-![Screenshot Halaman Detail Akun](https://imgur.com/rRRUz4q)
+![Screenshot Halaman Detail Akun](https://raw.githubusercontent.com/RazxSR/vokasi_application/9f37360da116db36b51313941e294c2139a5e856/images/detail.jpeg)
 
 ### Halaman Profil (Light Mode)
-![Screenshot Halaman Profil Light Mode](https://github.com/RazxSR/vokasi_application/blob/9f37360da116db36b51313941e294c2139a5e856/images/dark.jpeg)
+![Screenshot Halaman Profil Light Mode](https://raw.githubusercontent.com/RazxSR/vokasi_application/9f37360da116db36b51313941e294c2139a5e856/images/light.jpeg)
 
 ### Halaman Profil (Dark Mode)
-![Screenshot Halaman Profil Dark Mode](https://placehold.co/600x1000/333333/FFFFFF?text=SCREENSHOT+PROFILE+DARK+MODE)
+![Screenshot Halaman Profil Dark Mode](https://github.com/RazxSR/vokasi_application/blob/9f37360da116db36b51313941e294c2139a5e856/images/dark.jpeg)
 
 ## Implementasi Kode (Screenshots Kode)
 
