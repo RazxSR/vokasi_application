@@ -29,7 +29,7 @@ Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi ini:
 ![Screenshot Halaman Pendaftaran Akun](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+REGISTER+PAGE)
 
 ### Halaman Detail Akun
-![Screenshot Halaman Detail Akun](https://imgur.com/a/ixLvha1)
+![Screenshot Halaman Detail Akun](https://imgur.com/rRRUz4q)
 
 ### Halaman Profil (Light Mode)
 ![Screenshot Halaman Profil Light Mode](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+PROFILE+LIGHT+MODE)
