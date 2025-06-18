@@ -39,27 +39,19 @@ Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi ini:
 
 ## Implementasi Kode (Screenshots Kode)
 
-Berikut adalah beberapa cuplikan penting dari implementasi kode:
-
-### Struktur Proyek
-![Struktur Proyek](https://placehold.co/600x400/cccccc/333333?text=SCREENSHOT+STRUKTUR+PROYEK)
-*Tangkap layar struktur folder `lib/` Anda.*
-
 ### Implementasi `ThemeService`
 ![Kode ThemeService](https://placehold.co/800x600/cccccc/333333?text=SCREENSHOT+THEME_SERVICE.DART)
 *Tangkap layar bagian penting dari `lib/theme_service.dart`.*
 
 ### Pengaturan Tema di `main.dart`
-![Kode Main Dart Theme Setup](https://placehold.co/800x600/cccccc/333333?text=SCREENSHOT+MAIN.DART+THEME)
-*Tangkap layar bagian `main()` dan `MyApp` di `lib/main.dart` yang relevan dengan tema.*
+![Kode Main Dart Theme Setup](https://raw.githubusercontent.com/RazxSR/vokasi_application/refs/heads/main/images/maintheme.png)
 
-### Widget `ThemeToggleButton`
-![Kode ThemeToggleButton](https://placehold.co/800x600/cccccc/333333?text=SCREENSHOT+THEME_TOGGLE_BUTTON.DART)
-*Tangkap layar seluruh kode `lib/widgets/theme_toggle_button.dart`.*
+### Theme Button
+![Kode ThemeToggleButton](https://raw.githubusercontent.com/RazxSR/vokasi_application/refs/heads/main/images/light%20dark.png)
 
 ### Contoh Navigasi
-![Kode Navigasi](https://placehold.co/800x600/cccccc/333333?text=SCREENSHOT+NAVIGASI)
-*Tangkap layar contoh kode `Navigator.push` atau `Navigator.pushReplacement` dari salah satu halaman Anda.*
+![Kode Navigasi](https://raw.githubusercontent.com/RazxSR/vokasi_application/refs/heads/main/images/navigator.png)
+
 
 
 
