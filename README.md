@@ -40,8 +40,7 @@ Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi ini:
 ## Implementasi Kode (Screenshots Kode)
 
 ### Implementasi `ThemeService`
-![Kode ThemeService](https://placehold.co/800x600/cccccc/333333?text=SCREENSHOT+THEME_SERVICE.DART)
-*Tangkap layar bagian penting dari `lib/theme_service.dart`.*
+![Kode ThemeService](https://raw.githubusercontent.com/RazxSR/vokasi_application/refs/heads/main/images/themeservice2.png)
 
 ### Pengaturan Tema di `main.dart`
 ![Kode Main Dart Theme Setup](https://raw.githubusercontent.com/RazxSR/vokasi_application/refs/heads/main/images/maintheme.png)
