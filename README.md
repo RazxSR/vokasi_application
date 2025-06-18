@@ -32,7 +32,7 @@ Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi ini:
 ![Screenshot Halaman Detail Akun](https://imgur.com/rRRUz4q)
 
 ### Halaman Profil (Light Mode)
-![Screenshot Halaman Profil Light Mode](https://placehold.co/600x1000/cccccc/333333?text=SCREENSHOT+PROFILE+LIGHT+MODE)
+![Screenshot Halaman Profil Light Mode](https://github.com/RazxSR/vokasi_application/blob/9f37360da116db36b51313941e294c2139a5e856/images/dark.jpeg)
 
 ### Halaman Profil (Dark Mode)
 ![Screenshot Halaman Profil Dark Mode](https://placehold.co/600x1000/333333/FFFFFF?text=SCREENSHOT+PROFILE+DARK+MODE)
