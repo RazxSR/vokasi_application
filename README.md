@@ -1,7 +1,4 @@
-# vokasi_app
 # Aplikasi Sekolah Vokasi UNPAK
-
-![Banner Aplikasi Vokasi](https://placehold.co/1200x400/FF7F00/FFFFFF?text=Aplikasi+Sekolah+Vokasi+UNPAK)
 
 ## Deskripsi Proyek
 
